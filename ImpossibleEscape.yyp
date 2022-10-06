@@ -4,7 +4,7 @@
   "name": "ImpossibleEscape",
   "resources": [
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},"order":1,},
     {"id":{"name":"Spr_test","path":"sprites/Spr_test/Spr_test.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
